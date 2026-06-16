@@ -1,0 +1,5 @@
+{
+  "name": "CHUYỂN ĐỀ PDF SANG WOED",
+  "description": "Extracts and formats exam papers into A4 printable format with specific styling rules.",
+  "requestFramePermissions": []
+}
